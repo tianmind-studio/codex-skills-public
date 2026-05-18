@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hunt"
+  short_description: "Debug with root-cause discipline"
+  default_prompt: "Use $hunt to find the root cause before fixing this bug."

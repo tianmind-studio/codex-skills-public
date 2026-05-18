@@ -1,0 +1,4 @@
+interface:
+  display_name: "Document Quality Gate"
+  short_description: "Strict render QA for formal files"
+  default_prompt: "Use $document-quality-gate to route, render, inspect, and polish a formal document artifact."

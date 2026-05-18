@@ -1,0 +1,4 @@
+interface:
+  display_name: "DOCX Toolkit"
+  short_description: "Add Word TOC and Chinese page numbers"
+  default_prompt: "Use $docx-toolkit to add a Word TOC and page numbers to this docx."

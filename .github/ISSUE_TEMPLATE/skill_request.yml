@@ -1,0 +1,26 @@
+name: Skill request
+description: Suggest a reusable public Codex skill or workflow improvement
+title: "[Skill]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Workflow
+      description: What repeatable Codex workflow should this skill support?
+    validations:
+      required: true
+  - type: textarea
+    id: public_boundary
+    attributes:
+      label: Public boundary
+      description: What private context, credentials, or user-specific material must stay out?
+    validations:
+      required: true
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected behavior
+      description: What should Codex do when this skill is triggered?
+    validations:
+      required: true

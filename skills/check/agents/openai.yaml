@@ -1,0 +1,4 @@
+interface:
+  display_name: "Check"
+  short_description: "Review diffs before shipping code"
+  default_prompt: "Use $check to review my current diff before I merge."

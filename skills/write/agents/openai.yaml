@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write"
+  short_description: "Polish Chinese and English prose"
+  default_prompt: "Use $write to polish this prose while preserving meaning."

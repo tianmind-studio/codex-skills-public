@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn"
+  short_description: "Turn research into publishable output"
+  default_prompt: "Use $learn to help me research this topic and turn it into an article."

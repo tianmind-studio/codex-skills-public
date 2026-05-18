@@ -1,0 +1,4 @@
+interface:
+  display_name: "Think"
+  short_description: "Validate plans before implementation"
+  default_prompt: "Use $think to turn this rough idea into an approved plan."

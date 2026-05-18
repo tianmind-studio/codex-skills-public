@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read"
+  short_description: "Fetch URLs and PDFs as Markdown"
+  default_prompt: "Use $read to fetch this URL as clean Markdown."
