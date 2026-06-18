@@ -1,8 +1,8 @@
 # Codex Skills Public
 
 Reusable Codex skills for practical agent work: implementation review, debugging,
-research, web reading, writing, document QA, frontend design, and WeChat Mini
-Program delivery.
+research, web reading, writing, document QA, frontend design, H5/mobile QA, and
+WeChat Mini Program delivery.
 
 This repository is a public-safe subset of a larger private skill library. It is
 kept intentionally focused: skills here should be useful to other Codex users,
@@ -23,7 +23,9 @@ details.
 | `design` | Visual product/UI design judgment |
 | `frontend-design` | Frontend interface design guidance for real apps |
 | `document-quality-gate` | Artifact-first QA gate for DOCX/PPTX/PDF deliverables |
+| `chart-language-quality-gate` | Neutralize evaluator-facing or overly salesy chart labels before delivery |
 | `docx-toolkit` | Add Word-native table of contents and Chinese page numbering to DOCX files |
+| `h5-interaction-qa` | Playwright-based route, click, overflow, and overlap QA for static H5 demos |
 | `wechat-miniapp-factory` | Generate runnable WeChat Mini Program projects from a brief |
 | `wechat-miniapp-reviewer` | Pre-submission review for WeChat Mini Programs |
 
@@ -81,6 +83,6 @@ MIT, unless a specific file or subdirectory says otherwise.
 
 # Codex Skills Public（中文）
 
-这是一个可公开使用的 Codex skill 精选包，面向真实工作流：代码检查、调试、研究、网页读取、写作、正式文档 QA、前端设计和微信小程序生成/提审前检查。
+这是一个可公开使用的 Codex skill 精选包，面向真实工作流：代码检查、调试、研究、网页读取、写作、正式文档 QA、前端设计、H5/mobile QA 和微信小程序生成/提审前检查。
 
 这个仓库不是私有 skill 母库的完整公开版，而是经过筛选的公共子集：只保留别人能看懂、能安装、能复用，且不依赖私人上下文的部分。

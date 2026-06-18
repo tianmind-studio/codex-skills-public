@@ -11,6 +11,8 @@ A skill can be included here when it:
 - Does not require customer data, private chats, credentials, or infrastructure details.
 - Has a clear license boundary.
 - Reads like public project documentation, not a private operating note.
+- Has been checked against public GitHub results when ownership or upstream
+  provenance is unclear.
 
 ## Excluded By Default
 
@@ -22,6 +24,8 @@ The public repository intentionally excludes:
 - Large third-party/vendored suites with separate license obligations.
 - Branded presentation templates, private visual assets, and large media fixtures.
 - Workflows that only make sense inside one person's private memory system.
+- Third-party skills that already have a clear upstream home, unless included as
+  an attributed fork or contribution.
 
 ## Current Notes
 
@@ -32,6 +36,8 @@ The public repository intentionally excludes:
   template assets and brand-specific materials.
 - Thesis-specific and delivery-operations skills are not included because they
   are too close to private service workflows.
+- Third-party skills discovered locally should be linked or forked with
+  attribution instead of republished as original work.
 
 ## Publishing Checklist
 
